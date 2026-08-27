@@ -25,3 +25,4 @@ Prepare a detailed report containing:
 • CLI commands executed with screenshots. 
 • Explanations of each step, including why each command was used. 
 • Reflection on challenges faced and lessons learned from this end-to-end workflow.
+Try all this
